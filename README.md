@@ -1,2 +1,2 @@
-# Workshop-Angular
+# WS-Angular
 
